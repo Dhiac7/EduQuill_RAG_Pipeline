@@ -281,17 +281,7 @@ The system is configured to **only answer questions about uploaded documents**. 
 - **Groq API errors**: Verify your API key is correct and has sufficient credits
 - **Ollama connection failed**: Ensure Ollama is running: `ollama serve`
 
-## 📝 License
 
-This project is open-source. Please check the license file for details.
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📧 Support
-
-For issues and questions, please open an issue on the project repository.
 
 
 
