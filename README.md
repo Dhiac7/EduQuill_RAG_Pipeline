@@ -293,7 +293,5 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 For issues and questions, please open an issue on the project repository.
 
----
 
-**Built with ❤️ for education**
 
