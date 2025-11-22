@@ -1,0 +1,17 @@
+fastapi
+uvicorn[standard]
+pypdf
+chromadb
+sentence-transformers
+httpx
+langchain>=0.1.0
+langchain-community>=0.0.20
+langchain-chroma>=0.1.0
+langchain-core>=0.1.0
+langchain-text-splitters>=0.0.1
+langchain-ollama>=0.1.0
+langchain-groq>=0.1.0
+langchain-huggingface>=0.0.1
+langchain-classic>=0.1.0
+huggingface-hub
+
